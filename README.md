@@ -45,7 +45,7 @@ For development of DD-WRT, we have two options:
 * Download DD-WRT source, make changes and compile it. This grants additional degree of freedom, but requires time, disk space and patience as it may not compile on first time
 
 # Important links
-* [DD-Wrt Download](ftp://ftp.dd-wrt.com/betas/)
+* DD-Wrt Download:  ftp://ftp.dd-wrt.com/betas/
 
 * [Firm-Wire-Mod-Kit](https://github.com/rampageX/firmware-mod-kit)
 
